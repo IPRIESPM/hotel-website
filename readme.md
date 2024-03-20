@@ -9,8 +9,7 @@ Ejercicio de prueba sobre HTML y CSS.
 
 ## Descripción
 
-Este es un ejercicio de prueba para practicar HTML y CSS, con el fin de crear una página web de un hotel.
-está creado sobre Vite.
+Este es un ejercicio de prueba para practicar HTML y CSS, con el fin de crear una página web de un hotel, usando float. El proyecto está creado sobre Vite.
 
 ## Instalación
 
