@@ -7,4 +7,9 @@
     & i {
         margin-bottom: 10px;
     }
+
+    @media screen and (width <=600px) {
+        width: 100%;
+        float: none;
+    }
 }
