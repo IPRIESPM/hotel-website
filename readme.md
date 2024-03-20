@@ -6,6 +6,7 @@ Ejercicio de prueba sobre HTML y CSS.
   - [Descripción](#descripción)
   - [Instalación](#instalación)
   - [Uso](#uso)
+  - [GitHub Pages](#github-pages)
 
 ## Descripción
 
@@ -26,3 +27,7 @@ Para correr el proyecto, se debe ejecutar el siguiente comando:
 ```bash
 npm run dev
 ```
+
+## GitHub Pages
+
+El proyecto se encuentra desplegado en GitHub Pages, en el siguiente enlace: [Hotel-Website](https://IPRIESPM.github.io/Hotel-Website/)
