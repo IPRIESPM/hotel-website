@@ -25,11 +25,13 @@
                 display: block;
                 padding: 20px;
                 text-align: center;
+                transition: color, background 0.3s ease;
 
                 &:hover,
                 &.current {
                     background: #444;
                     color: var(--tertiary-color);
+                    transition: color, background 0.6s ease;
                 }
             }
         }

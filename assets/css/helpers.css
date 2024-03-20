@@ -22,17 +22,21 @@
     padding: 13px 20px;
     border: none;
     cursor: pointer;
+    transition: background 0.3s ease;
 }
 
-.btn:hover {
+& .btn:hover {
     background: var(--tertiary-color);
     color: var(--primary-color);
+    transition: background 0.6s ease;
 }
 
-.btn-light {
+& .btn-light {
     background: var(--secondary-color);
     color: var(--primary-color);
 }
+
+
 
 .bg-dark {
     background: #333;
