@@ -30,4 +30,4 @@ npm run dev
 
 ## GitHub Pages
 
-El proyecto se encuentra desplegado en GitHub Pages, en el siguiente enlace: [Hotel-Website](https://IPRIESPM.github.io/Hotel-Website/)
+El proyecto se encuentra desplegado en GitHub Pages, en el siguiente enlace: [Hotel-Website](https://ipriespm.github.io/hotel-website/)
