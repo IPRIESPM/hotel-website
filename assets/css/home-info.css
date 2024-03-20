@@ -1,0 +1,37 @@
+section#home-info {
+    height: 400px;
+
+    & .info-img {
+        float: left;
+        width: 50%;
+        background: url('/assets/img/photo-1.jpg') no-repeat;
+        min-height: 100%;
+    }
+
+    & .info-content {
+        float: right;
+        width: 50%;
+        height: 100%;
+        text-align: center;
+        padding: 50px 0;
+        overflow: hidden;
+
+        & p {
+            padding: 0 50px 30px;
+        }
+    }
+
+    @media screen and (width <=600px) {
+        height: auto;
+
+        & .info-img,
+        & .info-content {
+            width: 100%;
+            float: none;
+        }
+
+        & .info-img {
+            min-height: 300px;
+        }
+    }
+}
